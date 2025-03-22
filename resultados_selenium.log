@@ -1,0 +1,79 @@
+Running 'Prueba_funcional'
+19:40:06
+1.open on /login-signup-2022/login.php OK
+19:40:06
+2.setWindowSize on 788x884 OK
+19:40:06
+3.click on name=uname OK
+19:40:06
+4.type on name=uname with value JJ OK
+19:40:06
+5.click on name=pass OK
+19:40:06
+6.type on name=pass with value 12345 OK
+19:40:06
+7.click on css=.btn OK
+19:40:07
+8.click on linkText=Logout OK
+19:40:07
+'Prueba_funcional' completed successfully
+19:40:07
+Running 'Prueba_funcional'
+19:40:18
+1.open on /login-signup-2022/login.php OK
+19:40:18
+2.setWindowSize on 788x884 OK
+19:40:21
+3.click on name=uname OK
+19:40:23
+4.type on name=uname with value JJ OK
+19:40:25
+5.click on name=pass OK
+19:40:27
+6.type on name=pass with value 12345 OK
+19:40:29
+7.click on css=.btn OK
+19:40:31
+8.click on linkText=Logout OK
+19:40:33
+'Prueba_funcional' completed successfully
+19:40:33
+Running 'Prueba_funcional'
+20:04:45
+1.open on /login-signup-2022/login.php OK
+20:04:46
+2.setWindowSize on 788x884 OK
+20:04:46
+3.click on name=uname OK
+20:04:46
+4.type on name=uname with value JJ OK
+20:04:46
+5.click on name=pass OK
+20:04:46
+6.type on name=pass with value 12345 OK
+20:04:46
+7.click on css=.btn OK
+20:04:47
+8.click on linkText=Logout OK
+20:04:47
+'Prueba_funcional' completed successfully
+20:04:47
+Running 'Prueba_funcional'
+21:01:21
+1.open on /login-signup-2022/login.php OK
+21:01:22
+2.setWindowSize on 788x884 OK
+21:01:22
+3.click on name=uname OK
+21:01:22
+4.type on name=uname with value JJ OK
+21:01:22
+5.click on name=pass OK
+21:01:22
+6.type on name=pass with value 12345 OK
+21:01:22
+7.click on css=.btn OK
+21:01:22
+8.click on linkText=Logout OK
+21:01:23
+'Prueba_funcional' completed successfully
